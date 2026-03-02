@@ -4,7 +4,7 @@ A registration key generator for **Planets: TEOS v2.02**, a 1994 DOS BBS door ga
 
 ## Usage
 
-Run **`keygen_gui.exe`** — no installation required.
+Run **`keygen.exe`** — no installation required.
 
 1. Enter the **Sysop Real Name** exactly as you will type it in `PLANCFG.EXE`
 2. Enter the **BBS Name** exactly as you will type it in `PLANCFG.EXE`
